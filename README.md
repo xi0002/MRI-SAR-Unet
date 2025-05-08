@@ -2,7 +2,7 @@
 
 This repository provides an implementation of [a deep learning-based method for predicting SAR distributions in human head models](https://ieeexplore.ieee.org/document/10955187), developed using Python 3, Keras, and TensorFlow. The model leverages 3D U-Net and its variants to predict 3D SAR distributions from head tissue properties—specifically conductivity and permittivity—and the incident E-field.
 
-![fig][./fig1_workflow.png]
+![fig](./fig1_workflow.png)
 
 ## Requirements
 - Python 3.7
