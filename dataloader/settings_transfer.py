@@ -26,7 +26,7 @@ input_with_E_inc = False
 input_with_E_angle = False
 shuffle_during_training = True
 
-# output
+# path
 train_input_path = "./data/X_DATA_PATH/"  # "./train_input_path/"
 train_output_path = "./data/Y_DATA_PATH/"  # "./train_output_path/"
 val_input_path = "./data/X_DATA_PATH/"  # "./val_input_path/"
