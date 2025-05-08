@@ -37,7 +37,18 @@ This repository provides an implementation of [a deep learning-based method for 
 
 ## Citation
 
-To be updated.
+```
+@ARTICLE{MRI-SAR-Unet,
+  author={Wang, Xi and Jia, Xiaofan and Huang, Shao Ying and Yucel, Abdulkadir C.},
+  journal={IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology}, 
+  title={{Deep Learning-Based Prediction of Specific Absorption Rate Induced by Ultra-High-Field MRI RF Head Coil}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/JERM.2025.3555236}
+}
+```
 
 ## Acknowledgement
 
