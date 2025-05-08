@@ -24,7 +24,7 @@ hard_normalizing_input = True
 input_with_E_inc = True
 input_with_E_angle = False
 shuffle_during_training = True
-# output
+# path
 X_DATA_PATH = "./data/X_DATA_PATH/"
 Y_DATA_PATH = "./data/Y_DATA_PATH/"
 
